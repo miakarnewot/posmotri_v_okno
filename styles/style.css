@@ -209,6 +209,7 @@ video {
 .content__card-link {
   display: block;
   text-decoration: none;
+  margin: 2px;
 }
 
 .content__card-link_current {
